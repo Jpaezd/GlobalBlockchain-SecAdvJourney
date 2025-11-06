@@ -1,2 +1,10 @@
 # GlobalBlockchain-SecAdvJourney
-¡Hola! Soy Jorge Páez, aspirante a experto en blockchain. Este repo muestra mi viaje con 20 retos en Solidity (Ethereum): + 5 seguridad (reentrancy, audits), 5 avanzados (DeFi, ZK proofs), usando 4-D. Incluye código comentado, README y setups. ¡Forkea y únete! #Blockchain #Solidity #Web3 #Security
+Hi! I'm Jorge Páez, an aspiring blockchain expert.
+This repo showcases my journey through 20 Solidity (Ethereum) challenges:
+
+5 focused on security (reentrancy, audits)
+
+5 advanced ones (DeFi, ZK proofs), using the 4-D approach.
+Includes commented code, README, and setups.
+Fork it and join the journey! 🚀
+#Blockchain #Solidity #Web3 #Security
