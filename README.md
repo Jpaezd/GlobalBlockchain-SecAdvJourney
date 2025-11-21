@@ -1,3 +1,7 @@
+## 🌐 Languages
+- 🇺🇸 English (default)
+- 🇪🇸 [Español](README.es.md)
+
 # GlobalBlockchain-SecAdvJourney
 
 A professional repository documenting the blockchain development journey of **Jorge Paez**, focusing on secure smart contract engineering, advanced Solidity patterns, and industry-standard best practices.
