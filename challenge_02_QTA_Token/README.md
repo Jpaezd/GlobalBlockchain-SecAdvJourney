@@ -15,6 +15,7 @@ Clean code structure and design patterns
 Smart contract security awareness
 Transparent, verified smart contracts suitable for portfolio and professional review
 Educational demonstration of ERC20 token mechanics
+
 📁 Included Files
 challenge_02_QTA_Token/ ├── QTA.sol # Main ERC20 token contract ├── README.md # This file └── LICENSE # LGPL-3.0-only license
 
@@ -32,6 +33,7 @@ Total Supply: 100,000,000 QTA
 Blockchain: Arbitrum One
 Verified Source Code: Arbiscan
 License: LGPL-3.0-only
+
 🧪 How to Use the Contract
 
 ✔ Compile
@@ -59,6 +61,7 @@ Upgradeable contracts
 Gas optimization techniques
 Complete dApp projects (frontend + smart contracts)
 QUANTIA ecosystem development
+
 👤 Author
 Jorge Paez
 Blockchain Developer (Solidity – Ethereum)
