@@ -1,6 +1,6 @@
-🌐 Languages
-🇺🇸 English (default)
-🇪🇸 Español
+## 🌐 Idiomas
+- 🇺🇸 [English](README.md)
+- 🇪🇸 Español (actual)
 
 GlobalBlockchain-SecAdvJourney – Challenge 02: QTA Token
 Un repositorio profesional que documenta el viaje de desarrollo blockchain de Jorge Paez, enfocado en ingeniería de contratos inteligentes segura, patrones avanzados de Solidity y buenas prácticas de la industria.
