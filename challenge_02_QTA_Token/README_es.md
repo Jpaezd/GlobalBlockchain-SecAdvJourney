@@ -1,72 +1,137 @@
-## 🌐 Idiomas
-- 🇺🇸 [English](README.md)
-- 🇪🇸 Español (actual)
+# 🌐 QUANTIA Token – Challenge 02: QTA ($QTA)
 
-GlobalBlockchain-SecAdvJourney – Challenge 02: QTA Token
-Un repositorio profesional que documenta el viaje de desarrollo blockchain de Jorge Paez, enfocado en ingeniería de contratos inteligentes segura, patrones avanzados de Solidity y buenas prácticas de la industria.
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
+[![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
+[![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
+[![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
 
-Este desafío incluye el token QUANTIA ($QTA) ERC20, desplegado y verificado en Arbitrum One, sirviendo como un ejemplo claro de desarrollo de tokens, funciones burnable y despliegue de contratos inteligentes verificados.
+**Idiomas:** 🇺🇸 English | 🇪🇸 Español (actual)
 
-📌 Objetivo del Proyecto
-Este desafío sirve como demostración de:
+---
 
-Prácticas profesionales de desarrollo en Solidity
-Estructura de código limpia y patrones de diseño
-Conciencia sobre seguridad en contratos inteligentes
-Contratos transparentes y verificados, adecuados para portafolio y revisión profesional
-Demostración educativa de la mecánica de tokens ERC20
+## 📌 Descripción del Proyecto
 
-📁 Archivos Incluidos
-challenge_02_QTA_Token/ ├── QTA.sol # Contrato ERC20 principal ├── README.md # Este archivo └── LICENSE # Licencia LGPL-3.0-only
+`GlobalBlockchain-SecAdvJourney` – Challenge 02 documenta el viaje de desarrollo blockchain de **Jorge Paez**, enfocado en **ingeniería de contratos inteligentes segura**, patrones avanzados de Solidity y buenas prácticas de la industria.
 
-🚀 Funciones Principales del Token QTA
+Este desafío incluye el token **QUANTIA ($QTA)**, un token ERC20 **desplegado y verificado en Arbitrum One**, con funciones **burnable** y suministro fijo de **100,000,000 QTA**, actualmente reflejado en MetaMask. Este repositorio sirve como ejemplo profesional de:
 
-Función / Característica	Descripción
-transfer	Función estándar de transferencia ERC20
-balanceOf	Consultar el balance de tokens de una cuenta
-allowance	Consultar el permiso para transferencias delegadas
-approve	Aprobar que otra cuenta gaste tokens
-transferFrom	Transferir tokens desde una cuenta aprobada
-burn	Quemar tokens desde la propia cuenta (ERC20Burnable)
-burnFrom	Quemar tokens desde otra cuenta (ERC20Burnable)
-Suministro total: 100,000,000 QTA
-Blockchain: Arbitrum One
-Código fuente verificado: Arbiscan
-Licencia: LGPL-3.0-only
+* Prácticas de desarrollo en Solidity.
+* Código limpio y patrones de diseño.
+* Conciencia sobre seguridad en contratos inteligentes.
+* Contratos transparentes y verificados, aptos para portafolio.
+* Demostración educativa de la mecánica de tokens ERC20.
 
-🧪 Cómo Usar el Contrato
+> ⚠️ Nota: Futuras versiones del contrato considerarán **implementaciones resistentes a ataques cuánticos**, asegurando seguridad avanzada frente a posibles amenazas futuras.
 
-✔ Compilar
+---
 
-Abrir Remix IDE
-Crear un nuevo archivo: QTA.sol
-Pegar el código del contrato
-Seleccionar la versión del compilador: 0.8.24
-Hacer clic en Compile QTA.sol
-✔ Desplegar
+## 📁 Archivos Incluidos
 
-Bajo Deploy & Run Transactions
-Environment → Remix VM, Injected Provider o MetaMask
-Hacer clic en Deploy
-✔ Interactuar
+```
+challenge_02_QTA_Token/
+├── QTA.sol               # Contrato ERC20 principal
+├── README.md             # Este archivo
+├── LICENSE               # Licencia LGPL-3.0-only
+└── images/
+    └── qta_metamask.png  # Captura de MetaMask con los 100M QTA
+```
 
-Usar las pestañas Read Contract y Write Contract en Arbiscan para consultar balances, transferir tokens y quemar tokens.
+---
 
-📘 Visión del Repositorio
-A medida que este viaje continúa, futuros desafíos pueden incluir:
+## 🚀 Funciones Principales del Token QTA
 
-Patrones de seguridad avanzados (Checks-Effects-Interactions, Reentrancy Guards)
-Desarrollo de tokens ERC20 (QTA Token y futuros tokens)
-Control de acceso (Ownable, Roles)
-Contratos actualizables
-Técnicas de optimización de gas
-Proyectos completos de dApp (frontend + contratos inteligentes)
-Desarrollo del ecosistema QUANTIA
+| Función / Característica | Descripción                                     |
+| ------------------------ | ----------------------------------------------- |
+| `transfer`               | Transferencia estándar ERC20                    |
+| `balanceOf`              | Consultar balance de tokens                     |
+| `allowance`              | Consultar permiso para transferencias delegadas |
+| `approve`                | Aprobar que otra cuenta gaste tokens            |
+| `transferFrom`           | Transferir tokens desde cuenta aprobada         |
+| `burn`                   | Quemar tokens propios (ERC20Burnable)           |
+| `burnFrom`               | Quemar tokens desde otra cuenta (ERC20Burnable) |
 
-👤 Autor
-Jorge Paez
+* **Suministro total:** 100,000,000 QTA
+* **Blockchain:** Arbitrum One
+* **Código fuente verificado:** [Arbiscan](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
+* **Licencia:** LGPL-3.0-only
+
+---
+
+## 🧪 Cómo Usar el Contrato
+
+### ✔ Compilar
+
+1. Abrir **[Remix IDE](https://remix.ethereum.org/)**.
+2. Crear un nuevo archivo: `QTA.sol`.
+3. Pegar el código del contrato.
+4. Seleccionar compilador: `0.8.24`.
+5. Hacer clic en **Compile**.
+
+### ✔ Desplegar
+
+1. En **Deploy & Run Transactions** seleccionar `Remix VM`, `Injected Provider` o **MetaMask**.
+2. Hacer clic en **Deploy**.
+
+### ✔ Interactuar
+
+* Usar las pestañas **Read Contract** y **Write Contract** en **Arbiscan** para consultar balances, transferir y quemar tokens.
+
+---
+
+## 📷 MetaMask – QTA Token
+
+Para demostrar el suministro de **100,000,000 QTA** en tu wallet, agrega la captura de pantalla en:
+
+```
+images/qta_metamask.png
+```
+
+Luego enlázala así:
+
+```markdown
+![QTA en MetaMask](images/qta_metamask.png)
+```
+
+Esto permitirá que cualquier visitante vea tu token reflejado profesionalmente.
+
+---
+
+## 📘 Visión del Repositorio
+
+Futuros desafíos y mejoras podrían incluir:
+
+* Patrones de seguridad avanzados (`Checks-Effects-Interactions`, `Reentrancy Guards`).
+* Desarrollo de nuevos tokens ERC20 y funcionalidades avanzadas.
+* Control de acceso y roles (`Ownable`, `Roles`).
+* Contratos inteligentes actualizables.
+* Optimización de gas.
+* Proyectos completos de dApp (frontend + contratos inteligentes).
+* Implementaciones resistentes a ataques cuánticos.
+
+---
+
+## 👤 Autor
+
+**Jorge Paez**
 Blockchain Developer (Solidity – Ethereum)
 Expansión Global | Ingeniería de Contratos Inteligentes | Desarrollo enfocado en Seguridad
 
-📄 Licencia
-Este proyecto utiliza la licencia LGPL-3.0-only, consistente con los contratos Solidity incluidos.
+---
+
+## 📄 Licencia
+
+Este proyecto utiliza la **[licencia LGPL-3.0-only](https://www.gnu.org/licenses/lgpl-3.0.html)**, consistente con los contratos Solidity incluidos.
+
+---
+
+## 📌 Tabla de Contenido
+
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Archivos Incluidos](#archivos-incluidos)
+3. [Funciones Principales del Token QTA](#funciones-principales-del-token-qta)
+4. [Cómo Usar el Contrato](#cómo-usar-el-contrato)
+5. [MetaMask – QTA Token](#metamask--qta-token)
+6. [Visión del Repositorio](#visión-del-repositorio)
+7. [Autor](#autor)
+8. [Licencia](#licencia)
+
