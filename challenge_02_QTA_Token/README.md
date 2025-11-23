@@ -6,7 +6,7 @@
 [![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
 [![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
 
-Languages: 🇺🇸 English | 🇪🇸 Español (current)
+Languages: 🇺🇸 English (default) | 🇪🇸 Español
 
 ---
 
