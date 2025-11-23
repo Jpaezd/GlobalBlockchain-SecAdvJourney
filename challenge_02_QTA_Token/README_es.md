@@ -80,21 +80,12 @@ challenge_02_QTA_Token/
 
 ## 📷 MetaMask – QTA Token
 
-Para demostrar el suministro de **100,000,000 QTA** en tu wallet, agrega la captura de pantalla en:
+Para demostrar el suministro de **100,000,000 QTA** en mi wallet, agregue la captura de pantalla en:
 
 ```
 images/qta_metamask.png
 ```
 
-Luego enlázala así:
-
-```markdown
-![QTA en MetaMask](images/qta_metamask.png)
-```
-
-Esto permitirá que cualquier visitante vea tu token reflejado profesionalmente.
-
----
 
 ## 📘 Visión del Repositorio
 
