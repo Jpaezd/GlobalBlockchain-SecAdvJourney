@@ -14,7 +14,7 @@ Languages: 🇺🇸 English (default) | 🇪🇸 Español
 
 **GlobalBlockchain-SecAdvJourney – Challenge 02** documents the blockchain development journey of **Jorge Paez**, focused on secure smart contract engineering, advanced Solidity patterns, and industry best practices.
 
-This challenge includes **QUANTIA ($QTA)** — an ERC20 token deployed and verified on **Arbitrum One**, featuring burnable functionality and a fixed supply of **100,000,000 QTA**, currently visible in MetaMask.  
+This challenger includes **QUANTIA ($QTA)** — an ERC20 token deployed and verified on **Arbitrum One**, featuring burnable functionality and a fixed supply of **100,000,000 QTA**, currently visible in MetaMask.  
 This repository serves as a professional example of:
 
 - Solidity development best practices  
