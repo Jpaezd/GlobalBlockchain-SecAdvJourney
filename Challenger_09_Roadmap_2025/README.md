@@ -123,3 +123,5 @@ This roadmap convierte a QUANTIA (QTA) en un proyecto sólido con:
 * Ecosistema en crecimiento
 
 Listo para publicarse en GitHub como **Challenge_09_Roadmap_2025**.
+
+![QTA Logo] https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenger_09_Roadmap_2025/QTA.png
