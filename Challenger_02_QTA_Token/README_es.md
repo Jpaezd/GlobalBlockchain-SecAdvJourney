@@ -11,7 +11,7 @@
 
 ## 📌 Descripción del Proyecto
 
-`GlobalBlockchain-SecAdvJourney` – Challenge 02 documenta el viaje de desarrollo blockchain de **Jorge Paez**, enfocado en **ingeniería de contratos inteligentes segura**, patrones avanzados de Solidity y buenas prácticas de la industria.
+`GlobalBlockchain-SecAdvJourney` – Challenger 02 documenta el viaje de desarrollo blockchain de **Jorge Paez**, enfocado en **ingeniería de contratos inteligentes segura**, patrones avanzados de Solidity y buenas prácticas de la industria.
 
 Este desafío incluye el token **QUANTIA ($QTA)**, un token ERC20 **desplegado y verificado en Arbitrum One**, con funciones **burnable** y suministro fijo de **100,000,000 QTA**, actualmente reflejado en MetaMask. Este repositorio sirve como ejemplo profesional de:
 
