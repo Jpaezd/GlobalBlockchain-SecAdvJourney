@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Challenge](https://img.shields.io/badge/Challenge-03-orange.svg)]()
 [![Category](https://img.shields.io/badge/Category-Smart%20Contracts-purple.svg)]()
+[![Challenge](https://img.shields.io/badge/Challenger-03-orange.svg)]()
 
 Languages: 🇺🇸 English | 🇪🇸 **Español (actual)**
 
