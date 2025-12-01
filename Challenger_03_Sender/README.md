@@ -30,12 +30,12 @@ This challenge builds the foundation for more advanced concepts such as access c
 
 ## 📁 Included Files
 
-```
-challenge_03_sender/
-├── Sender.sol           # Main contract
-├── README.md            # This file
-└── LICENSE              # LGPL-3.0-only license
-```
+Challenger_03_Sender/
+├── Sender.sol          # Main contract (English version)
+├── Sender_es.sol       # Spanish commented version
+├── README.md           # English documentation
+├── README_ES.md        # Spanish documentation
+└── LICENSE             # LGPL-3.0-only license
 
 ---
 
