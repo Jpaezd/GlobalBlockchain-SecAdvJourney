@@ -1,0 +1,53 @@
+# **GNU LESSER GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007**
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+---
+
+## **Preamble**
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+
+The GNU Lesser General Public License is designed to allow developers and companies to use and integrate software covered by this license into their own (even proprietary) software under certain conditions.
+
+Software licensed under the LGPL may be linked with non-(L)GPL software without requiring the latter to be released under the GPL or LGPL.
+
+---
+
+## **Additional Permissions**
+
+### **0. Additional Definitions**
+
+As used herein, “this License” refers to version 3 of the GNU Lesser General Public License, and the “GNU GPL” refers to version 3 of the GNU General Public License.
+
+### **1. Exception to Section 3 of the GNU GPL**
+
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+### **2. Combined Works**
+
+You may convey a Combined Work under terms of your choice, provided that:
+
+* The work must allow reverse engineering for debugging.
+* You must give prominent notice that the library is used.
+* You must provide a copy of this license.
+* You must allow replacement or modification of the LGPL-covered components.
+
+### **3. Object Code Incorporating Material from Library Header Files**
+
+You may convey such object code under terms of your choice, provided that the required notices are included.
+
+### **4. Combined Libraries**
+
+You may place library facilities under this License alongside other libraries under your choice of terms, as long as the combined library respects the rules of the LGPL.
+
+---
+
+## **Revised Versions of the GNU Lesser GPL**
+
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time.
+
