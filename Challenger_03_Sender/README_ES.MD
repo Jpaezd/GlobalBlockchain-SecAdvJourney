@@ -5,6 +5,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Category](https://img.shields.io/badge/Category-Smart%20Contracts-purple.svg)]()
+[![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
 [![Challenge](https://img.shields.io/badge/Challenger-03-orange.svg)]()
 
 Languages: 🇺🇸 English | 🇪🇸 **Español (actual)**
