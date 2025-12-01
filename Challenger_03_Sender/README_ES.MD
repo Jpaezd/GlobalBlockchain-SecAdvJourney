@@ -29,12 +29,13 @@ Es un reto pequeño, pero fundamental para construir contratos más complejos co
 
 ## 📁 Archivos Incluidos
 
-```
-challenge_03_sender/
-├── Sender.sol            # Contrato principal
-├── README.md             # Este archivo
-└── LICENSE               # Licencia LGPL-3.0-only
-```
+Challenger_03_Sender/
+├── Sender.sol              # Contrato principal (versión en inglés)
+├── Sender_es.sol           # Versión comentada en español
+├── README.md               # Documentación en inglés
+├── README_ES.md            # Documentación en español
+└── LICENSE                 # Licencia LGPL-3.0-only
+
 
 ---
 
