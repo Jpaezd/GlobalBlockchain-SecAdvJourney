@@ -1,8 +1,9 @@
 # Challenge 01 – Advanced Calculator 🔢
 
+[![Challenge_01](https://img.shields.io/badge/Challenge_01-AdvancedCalculator-green)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue)](#)
 ![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
-[![Challenge_01](https://img.shields.io/badge/Challenge_01-AdvancedCalculator-green)](#)
+
 
 ## Overview
 
