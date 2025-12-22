@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Category](https://img.shields.io/badge/Category-Smart%20Contracts-purple.svg)]()
 [![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
-
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
 
 Languages: 🇺🇸 English | 🇪🇸 **Español (actual)**
 
