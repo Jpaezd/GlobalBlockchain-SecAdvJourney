@@ -54,7 +54,7 @@ Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format,
 
 **Basic Version:** 
 
-![React Sepolia](Challenge_04_React_TypeScript_Wallet_Connector/basic/images/React-Sepolia.png)
+![React Sepolia Basic](Challenge_04_React_TypeScript_Wallet_Connector/pro/images/React-Sepolia_basic.png)
 
 
 
