@@ -1,9 +1,13 @@
 # Challenge 04 – React + MetaMask + TypeScript
 
 ![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white)
+![PRO](https://img.shields.io/badge/Level-PRO-red)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
+![Frontend](https://img.shields.io/badge/Frontend-React-yellow)
+![Advanced](https://img.shields.io/badge/Advanced-truegreen)
 
 This repository demonstrates the evolution of a **Web3 wallet connection implementation** using React and TypeScript. I structured it in two stages to showcase my technical growth and architectural decisions.
 
