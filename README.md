@@ -1,69 +1,64 @@
 # Challenge 04 – React + MetaMask + TypeScript
 
-![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
-![PRO](https://img.shields.io/badge/Level-PRO-red)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
-![Frontend](https://img.shields.io/badge/Frontend-React-yellow)
-![Advanced](https://img.shields.io/badge/Advanced-truegreen)
+[![Solidity](https://img.shields.io/badge/Solidity-393939?style=for-the-badge&logo=solidity&logoColor=white)] 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
+[![Challenge 04](https://img.shields.io/badge/Challenge-04-ff69b4?style=for-the-badge)]
 
-This repository demonstrates the evolution of a **Web3 wallet connection implementation** using React and TypeScript. I structured it in two stages to showcase my technical growth and architectural decisions.
+This repository showcases my **progressive Web3 development journey**, specifically the evolution of a **wallet connection using React and TypeScript** with MetaMask.  
 
----
+I structured the project in **two stages**:
 
-## Project Structure
+- **Basic version** – Fundamental MetaMask connection, beginner-friendly.  
+- **PRO version** – Production-ready wallet integration with lifecycle handling, safety checks, and advanced architecture.
 
-### Basic Version
-- Folder: `/basic`
-- Beginner-friendly MetaMask connection
-- Displays connected account
-- Focused on learning the fundamentals of Ethereum wallet integration
-
-### PRO Version
-- Folder: `/pro`
-- Production-ready wallet connection
-- Handles account changes automatically
-- Includes error handling for missing MetaMask
-- Implements modern TypeScript patterns and lifecycle management
+Each stage is documented separately to highlight my **technical growth** and **best practices in Web3 frontends**.
 
 ---
 
-## Usage
+## 📂 Project Structure
 
-1. Clone this repository.
-2. Navigate to either `/basic` or `/pro` folder.
-3. Install dependencies:
-```bash
-npm install
-````
-
-4. Start the project:
-
-```bash
-npm start
 ```
 
-5. Open your browser, click **Connect MetaMask**, and authorize.
+/basic → Beginner-friendly implementation
+/pro   → Advanced, production-oriented implementation
+/src   → Source code (React + TypeScript)
+/public → Public assets
 
-> The PRO version handles account switching and connection lifecycle automatically, demonstrating a production-ready setup.
-
----
-
-## Tech Stack
-
-* ![React](https://img.shields.io/badge/React-20232a?style=flat\&logo=react\&logoColor=61DAFB)
-* ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
-* ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat\&logo=MetaMask\&logoColor=white)
-* Web3 fundamentals
+```
 
 ---
 
-## Goal
+## 🛠 Tech Stack
 
-My goal is to demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format, from a **basic MetaMask integration** to a **PRO-level wallet connection** ready for real-world applications.
+- **React**
+- **TypeScript**
+- **MetaMask (EIP-1193)**
+- **Web3 fundamentals**
 
+---
+
+## 🎯 Goal
+
+Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format, showing both **basic implementation** and **advanced production-ready solutions**.
+
+---
+
+## 📸 Screenshots
+
+**PRO Version – Wallet Connector:**
+
+[![WalletConnectorPro](pro/WalletConnectorPro.png)](pro/WalletConnectorPro.png)
+
+Click the image to open the full screenshot.
+
+---
+
+## ✅ Notes
+
+- `/basic` folder: contains the initial simple wallet connection.  
+- `/pro` folder: contains the advanced WalletConnectorPro implementation.  
+- This README serves as the **main entry point**, with overview and links to both versions.  
 
 
 
