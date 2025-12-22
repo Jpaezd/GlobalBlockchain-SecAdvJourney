@@ -60,8 +60,7 @@ Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format,
 
 
 
-### 🔵 PRO Version – 
-### 🔑 Wallet connection
+### 🔵 PRO Version –  🔑 Wallet connection
 
 Connects the React app to MetaMask, detects account changes, and handles network switching (Sepolia testnet).
 
