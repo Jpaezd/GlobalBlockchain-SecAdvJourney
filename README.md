@@ -44,9 +44,10 @@ This repository showcases my progression in blockchain and Web3 development thro
 ## 📸 Screenshots
 
 ### Challenge 04 – Wallet Connector
-**Basic Version**  
+### 🟢 Basic Version  
 ![React Sepolia](./Challenge_04_React_TypeScript_Wallet_Connector/pro/images/React-Sepolia_basic.png)  
 
+> React app connected to Sepolia testnet. Wallet account visible.
  
 ### 🔵 PRO Version –  🔑 Wallet connection
 
