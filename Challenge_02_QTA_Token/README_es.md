@@ -1,10 +1,10 @@
 # 🌐 QUANTIA Token – Challenge 02: ($QTA)
 
+[![Challenge](https://img.shields.io/badge/Challenger-02-orange.svg)]()
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
 [![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
-[![Challenge](https://img.shields.io/badge/Challenger-02-orange.svg)]()
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
 
 **Idiomas:** 🇺🇸 English | 🇪🇸 Español (actual)
