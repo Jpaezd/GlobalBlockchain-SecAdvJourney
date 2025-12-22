@@ -53,7 +53,7 @@ This repository showcases my progression in blockchain and Web3 development thro
 
 Connects the React app to MetaMask, detects account changes, and handles network switching (Sepolia testnet).
 ![Wallet Connector Pro](./Challenge_04_React_TypeScript_Wallet_Connector/pro/images/WalletConnectorPro.png)  
-
+Full PRO version with advanced wallet connection features.
 Click images to view full screenshots in the respective folders.
 
 ---
