@@ -1,9 +1,13 @@
 # Challenge 04 – React + MetaMask + TypeScript
 
-[![Solidity](https://img.shields.io/badge/Solidity-393939?style=for-the-badge&logo=solidity&logoColor=white)] 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
-[![Challenge 04](https://img.shields.io/badge/Challenge-04-ff69b4?style=for-the-badge)]
+![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
+![PRO](https://img.shields.io/badge/Level-PRO-red)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
+![Frontend](https://img.shields.io/badge/Frontend-React-yellow)
+![Advanced](https://img.shields.io/badge/Advanced-truegreen)
 
 This repository showcases my **progressive Web3 development journey**, specifically the evolution of a **wallet connection using React and TypeScript** with MetaMask.  
 
