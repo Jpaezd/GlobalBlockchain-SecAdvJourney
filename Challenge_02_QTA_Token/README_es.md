@@ -5,6 +5,7 @@
 [![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
 [![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
 [![Challenge](https://img.shields.io/badge/Challenger-02-orange.svg)]()
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
 
 **Idiomas:** 🇺🇸 English | 🇪🇸 Español (actual)
 
