@@ -104,7 +104,7 @@ On **Arbiscan**, under the verified contract:
 
 ---
 
-## 📷 MetaMask — QTA Token
+## 📷 MetaMask — QTA Token 💰 Token balance
 
 To demonstrate the full **100,000,000 QTA** supply in my wallet, the screenshot is included below:
 
