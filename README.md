@@ -1,26 +1,65 @@
+Perfecto, aquí tienes un **README único en inglés**, en primera persona, listo para copiar y pegar. Incluye **la descripción de ambas versiones** (basic y PRO) y los badges de colores:
+
+````markdown
 # Challenge 04 – React + MetaMask + TypeScript
 
-This repository demonstrates the evolution of a Web3 wallet connection implementation using React and TypeScript.
+![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
+![Solidity](https://img.shields.io/badge/Solidity-%23007ACC?style=flat&logo=Solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
 
-The project is structured in two stages:
+This repository demonstrates the evolution of a **Web3 wallet connection implementation** using React and TypeScript. I structured it in two stages to showcase my technical growth and architectural decisions.
 
-- **Basic version** – Fundamental MetaMask connection
-- **PRO version** – Production-ready wallet integration with lifecycle handling and safety checks
+---
 
-Each stage is documented separately to highlight technical growth and architectural decisions.
+## Project Structure
 
-## 📂 Project Structure
+### Basic Version
+- Folder: `/basic`
+- Beginner-friendly MetaMask connection
+- Displays connected account
+- Focused on learning the fundamentals of Ethereum wallet integration
 
-- `/basic` → Beginner-friendly implementation
-- `/pro` → Advanced, production-oriented implementation
+### PRO Version
+- Folder: `/pro`
+- Production-ready wallet connection
+- Handles account changes automatically
+- Includes error handling for missing MetaMask
+- Implements modern TypeScript patterns and lifecycle management
 
-## 🛠 Tech Stack
+---
 
-- React
-- TypeScript
-- MetaMask (EIP-1193)
-- Web3 fundamentals
+## Usage
 
-## 🎯 Goal
+1. Clone this repository.
+2. Navigate to either `/basic` or `/pro` folder.
+3. Install dependencies:
+```bash
+npm install
+````
 
-To demonstrate progressive Web3 frontend skills in a recruiter-friendly format.
+4. Start the project:
+
+```bash
+npm start
+```
+
+5. Open your browser, click **Connect MetaMask**, and authorize.
+
+> The PRO version handles account switching and connection lifecycle automatically, demonstrating a production-ready setup.
+
+---
+
+## Tech Stack
+
+* React
+* TypeScript
+* MetaMask (EIP-1193)
+* Web3 fundamentals
+
+---
+
+## Goal
+
+My goal is to demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format, from a **basic MetaMask integration** to a **PRO-level wallet connection** ready for real-world applications.
+
