@@ -46,6 +46,20 @@ npm start
 > The PRO version handles account switching and connection lifecycle automatically, demonstrating a production-ready setup.
 
 ---
+## 📷 React + MetaMask – Basic Screenshots
+
+### Sepolia Network
+![React Sepolia](images/React-Sepolia.png)
+
+### Wallet Connected – Account 1
+![Wallet Account 1](images/React--Wallet-Account1.png)
+
+### Wallet Connected – Account 2
+![Wallet Account 2](images/React-Wallet-Account2.png)
+
+### Reconnect Account
+![Reconnect Account](images/Reconnect-React-Sepolia-Account1.png)
+
 
 ## Tech Stack
 
