@@ -104,13 +104,10 @@ On **Arbiscan**, under the verified contract:
 
 ## 📷 MetaMask — QTA Token
 
-To demonstrate the full **100,000,000 QTA** supply in my wallet, the screenshot is included at:
+To demonstrate the full **100,000,000 QTA** supply in my wallet, the screenshot is included below:
 
-```
-images/qta_metamask.png
-```
+![QTA Token in MetaMask](images/qta_metamask.png)
 
----
 
 ## 📘 Repository Vision
 
