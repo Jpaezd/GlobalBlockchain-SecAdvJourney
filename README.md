@@ -1,12 +1,9 @@
-
-
-````markdown
 # Challenge 04 – React + MetaMask + TypeScript
 
 ![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
-![Solidity](https://img.shields.io/badge/Solidity-%23007ACC?style=flat&logo=Solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 This repository demonstrates the evolution of a **Web3 wallet connection implementation** using React and TypeScript. I structured it in two stages to showcase my technical growth and architectural decisions.
 
@@ -52,9 +49,9 @@ npm start
 
 ## Tech Stack
 
-* React
-* TypeScript
-* MetaMask (EIP-1193)
+* ![React](https://img.shields.io/badge/React-20232a?style=flat\&logo=react\&logoColor=61DAFB)
+* ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+* ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat\&logo=MetaMask\&logoColor=white)
 * Web3 fundamentals
 
 ---
@@ -62,4 +59,7 @@ npm start
 ## Goal
 
 My goal is to demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format, from a **basic MetaMask integration** to a **PRO-level wallet connection** ready for real-world applications.
+
+
+
 
