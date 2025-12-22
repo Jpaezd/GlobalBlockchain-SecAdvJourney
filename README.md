@@ -1,4 +1,4 @@
-Perfecto, aquí tienes un **README único en inglés**, en primera persona, listo para copiar y pegar. Incluye **la descripción de ambas versiones** (basic y PRO) y los badges de colores:
+
 
 ````markdown
 # Challenge 04 – React + MetaMask + TypeScript
