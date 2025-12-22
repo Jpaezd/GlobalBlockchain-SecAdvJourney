@@ -1,6 +1,7 @@
 # 🌐 QUANTIA Token – Challenge 02: ($QTA)
 **Solidity License Verified on Arbiscan — Arbitrum One**
 
+[![Challenge_02](https://img.shields.io/badge/QTA Token-green)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
