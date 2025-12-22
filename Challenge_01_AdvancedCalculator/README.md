@@ -68,11 +68,6 @@ Demonstrate clean, secure, and reusable Solidity code for arithmetic operations 
 
 ---
 
-## 📸 Screenshot / Contract Diagram
-
-![AdvancedCalculator](AdvancedCalculator.png)
-
----
 
 ## 📝 Notes
 
