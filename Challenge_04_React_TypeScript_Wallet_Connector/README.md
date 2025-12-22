@@ -52,18 +52,19 @@ Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format,
 
 ## Challenge 04 – Wallet Connector
 
-**Basic Version:** 
+### 🟢 Basic Version
 
 ![React Sepolia Basic](pro/images/React-Sepolia_basic.png)
 
+> React app connected to Sepolia testnet. Wallet account visible.
 
 
-**PRO Version – Wallet Connector**
 
-[![Wallet Connector Pro](pro/images/WalletConnectorPro.png)](pro/images/WalletConnectorPro.png)
+### 🔵 PRO Version – Wallet Connector
 
-Click the image to open the full screenshot.
+![Wallet Connector Pro](pro/images/WalletConnectorPro.png)
 
+> Full PRO version with advanced wallet connection features.
 
 
 ## ✅ Notes
