@@ -50,11 +50,16 @@ Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format,
 
 ## 📸 Screenshots
 
-**PRO Version – Wallet Connector**
+## Challenge 04 – Wallet Connector
 
-[![Wallet Connector Pro](pro/images/WalletConnectorPro.png)](pro/images/WalletConnectorPro.png)
+**Basic Version:**
 
----
+![React Sepolia](Challenge_04_React_TypeScript_Wallet_Connector/basic/images/React-Sepolia.png)
+
+**PRO Version:**
+
+[![Wallet Connector Pro](Challenge_04_React_TypeScript_Wallet_Connector/pro/images/WalletConnectorPro.png)](Challenge_04_React_TypeScript_Wallet_Connector/pro/images/WalletConnectorPro.png)
+
 
 ## ✅ Notes
 
