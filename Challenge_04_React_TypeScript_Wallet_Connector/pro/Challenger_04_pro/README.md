@@ -28,12 +28,11 @@ This folder demonstrates the **PRO version of Web3 wallet integration** using Re
 ## Screenshots
 
 **1️⃣ Wallet connecting:**  
-![Wallet Connector PRO 1](./images/WalletConnectorPro1.jpeg)
+![Wallet Connector PRO 1](./images/WalletConnectorPro1.png)
 
 **2️⃣ Wallet connected and balances loaded:**  
-![Wallet Connector PRO 2](./images/WalletConnectorPro2.jpeg)
+![Wallet Connector PRO 2](./images/WalletConnectorPro2.png)
 
----
 
 ## Usage
 
