@@ -11,14 +11,22 @@
 
 ## 📌 Description
 
-This challenge implements a **Wallet Connector** in React + TypeScript to interact with MetaMask. It shows the connected account, active network, and balances in **ETH** and **QTA token**. It is divided into **Basic** and **PRO Version** to demonstrate advanced functionalities and real-time balance display.
+This challenge demonstrates a **Web3 Wallet Connector** in **React + TypeScript** using MetaMask.  
+It shows the connected account, active network, and real-time balances in **ETH** and **QTA token**.  
+
+The project is split into:
+
+- **Basic Version** – simple connection and account display.  
+- **PRO Version** – advanced features, including real-time balances, network verification, and visual status indicators.
 
 ---
 
 ## 🟢 Basic Version
 
+**Features:**
+
 - Simple MetaMask connection.
-- Shows the connected account and network.
+- Display connected account and network.
 - Built using React functional components and hooks.
 
 **Screenshot:**
@@ -29,25 +37,25 @@ This challenge implements a **Wallet Connector** in React + TypeScript to intera
 
 ## 🚀 PRO Version
 
-### PRO Features
+### Features
 
-- Advanced MetaMask connection.
-- Real-time balances in ETH and QTA.
-- Network verification and error messages for incorrect network.
-- Visual status when wallet is connected.
+- Advanced MetaMask connection handling
+- Real-time balances for **ETH** and **QTA**
+- Network verification with error messages for incorrect network
+- Visual indicators when wallet is connected
+- Responsive UI updates on account and chain changes
 
-### PRO Screenshots
+### Screenshots
 
 **1️⃣ Wallet connecting (initial connection):**  
 ![Wallet Connector PRO 1](./pro/Challenger_04_pro/images/WalletConnectorPro1.png)
 
-**2️⃣ Wallet connected and balances loaded:**  Only BNB Chain
+**2️⃣ Wallet connected and balances loaded:**  
 ![Wallet Connector PRO 2](./pro/Challenger_04_pro/images/WalletConnectorPro2.png)
 
+---
 
-
-
-### Example Code for Connection & Balances
+### ⚡ Example Code – Connection & Balances
 
 ```tsx
 import React, { useState, useEffect } from "react";
@@ -75,7 +83,6 @@ function WalletConnectorPro() {
     const eth = await provider.getBalance(account);
     setEthBalance(ethers.formatEther(eth));
 
-    // QTA token contract
     const QTA_ADDRESS = "0xYOUR_QTA_ADDRESS"; 
     const QTA_ABI = ["function balanceOf(address) view returns (uint256)"];
     const qtaContract = new ethers.Contract(QTA_ADDRESS, QTA_ABI, provider);
@@ -98,9 +105,9 @@ function WalletConnectorPro() {
       <button onClick={connectWallet}>Connect Wallet</button>
       {account && (
         <div>
-          <p>Account: {account}</p>
-          <p>ETH: {ethBalance || "Loading..."}</p>
-          <p>QTA: {qtaBalance || "Loading..."}</p>
+          <p><strong>Account:</strong> {account}</p>
+          <p><strong>ETH:</strong> {ethBalance || "Loading..."}</p>
+          <p><strong>QTA:</strong> {qtaBalance || "Loading..."}</p>
         </div>
       )}
     </div>
@@ -108,4 +115,5 @@ function WalletConnectorPro() {
 }
 
 export default WalletConnectorPro;
+
 
