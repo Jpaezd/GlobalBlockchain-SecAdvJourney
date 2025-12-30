@@ -116,4 +116,18 @@ function WalletConnectorPro() {
 
 export default WalletConnectorPro;
 
+🎯 Goal
 
+The goal of this challenge is to demonstrate a professional Web3 frontend integration, showing real-time wallet balances, network verification, and a robust React + TypeScript structure that recruiters and developers can immediately understand and trust.
+
+📚 Tech Stack
+
+React 18
+
+TypeScript 5
+
+MetaMask (EIP-1193)
+
+Ethereum Web3
+
+Advanced frontend patterns and best practices
