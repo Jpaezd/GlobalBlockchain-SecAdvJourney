@@ -9,7 +9,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React-yellow)
 ![Advanced](https://img.shields.io/badge/Advanced-truegreen)
 
-# Challenge 04 – React + MetaMask + TypeScript  
+
 ### **React · TypeScript · MetaMask · Web3 Frontend · Advanced Wallet Connector**
 
 This repository showcases my progressive Web3 development journey through the implementation of a MetaMask wallet connector in React + TypeScript.
