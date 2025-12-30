@@ -39,10 +39,10 @@ This challenge implements a **Wallet Connector** in React + TypeScript to intera
 ### PRO Screenshots
 
 **1️⃣ Wallet connecting (initial connection):**  
-![Wallet Connector PRO 1](./pro/images/WalletConnectorPro1.png)
+![Wallet Connector PRO 1](./pro/images/WalletConnectorPro1.jpeg)
 
 **2️⃣ Wallet connected and balances loaded:**  
-![Wallet Connector PRO 2](./pro/images/WalletConnectorPro2.png)
+![Wallet Connector PRO 2](./pro/images/WalletConnectorPro2.jpeg)
 
 ### Example Code for Connection & Balances
 
