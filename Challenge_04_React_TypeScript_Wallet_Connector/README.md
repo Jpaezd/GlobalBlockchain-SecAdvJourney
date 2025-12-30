@@ -45,6 +45,7 @@ This challenge implements a **Wallet Connector** in React + TypeScript to intera
 ![Wallet Connector PRO 2](./images/WalletConnectorPro2.png)
 
 
+
 ### Example Code for Connection & Balances
 
 ```tsx
