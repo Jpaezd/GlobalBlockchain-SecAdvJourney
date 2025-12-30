@@ -9,71 +9,43 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React-yellow)
 ![Advanced](https://img.shields.io/badge/Advanced-truegreen)
 
-This repository showcases my **progressive Web3 development journey**, specifically the evolution of a **wallet connection using React and TypeScript** with MetaMask.  
+# Challenge 04 – React + MetaMask + TypeScript  
+### **React · TypeScript · MetaMask · Web3 Frontend · Advanced Wallet Connector**
 
-I structured the project in **two stages**:
+This repository showcases my progressive Web3 development journey through the implementation of a MetaMask wallet connector in React + TypeScript.
 
-- **Basic version** – Fundamental MetaMask connection, beginner-friendly.  
-- **PRO version** – Production-ready wallet integration with lifecycle handling, safety checks, and advanced architecture.
+The project is divided into two stages:
 
-Each stage is documented separately to highlight my **technical growth** and **best practices in Web3 frontends**.
+---
+
+## 🚀 Project Versions
+
+### **1️⃣ Basic Version – Core Fundamentals**
+A simple and beginner-friendly implementation of a MetaMask wallet connector.  
+It includes:
+
+- Connecting to MetaMask  
+- Displaying the user account  
+- Basic structure for a Web3-ready React app  
+
+📂 Folder: **`/basic`**
+
+---
+
+### **2️⃣ PRO Version – Production-Ready Wallet Integration**
+A fully enhanced wallet connector with:
+
+- Complete lifecycle handling  
+- Account & network change listeners  
+- Dynamic balance fetching  
+- Environment-safe architecture  
+- Error handling & clean UI  
+- BNB Chain compatibility  
+- Total fiat value calculation (**Values from BNB Chain**)  
+
+📂 Folder: **`/pro`**
 
 ---
 
 ## 📂 Project Structure
-
-```
-
-/basic → Beginner-friendly implementation
-/pro   → Advanced, production-oriented implementation
-/src   → Source code (React + TypeScript)
-/public → Public assets
-
-```
-
----
-
-## 🛠 Tech Stack
-
-- **React**
-- **TypeScript**
-- **MetaMask (EIP-1193)**
-- **Web3 fundamentals**
-
----
-
-## 🎯 Goal
-
-Demonstrate **progressive Web3 frontend skills** in a recruiter-friendly format, showing both **basic implementation** and **advanced production-ready solutions**.
-
----
-
-## 📸 Screenshots
-
-## Challenge 04 – Wallet Connector
-
-### 🟢 Basic Version
-
-![React Sepolia Basic](pro/images/React-Sepolia_basic.png)
-
-> React app connected to Sepolia testnet. Wallet account visible.
-
-
-
-### 🔵 PRO Version –  🔑 Wallet connection
-
-Connects the React app to MetaMask, detects account changes, and handles network switching (Sepolia testnet).
-
-![Wallet Connector Pro](pro/images/WalletConnectorPro.png)
-
-> Full PRO version with advanced wallet connection features.
-
-
-## ✅ Notes
-
-- `/basic` folder: contains the initial simple wallet connection.  
-- `/pro` folder: contains the advanced WalletConnectorPro implementation.  
-- This README serves as the **main entry point**, with overview and links to both versions.  
-
-
 
