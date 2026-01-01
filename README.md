@@ -99,13 +99,13 @@ New challenges will continuously be added in **Basic**, **PRO**, **Security**, *
 ---
 
 # 📂 **Challenges Overview**
+| # | Challenge | Description | Link |
+|---|----------|-------------|------|
+| **01** | **Advanced Calculator** | Smart-contract calculator built in Solidity with secure arithmetic and gas-efficient operations. | ➜ [View README](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_01_AdvancedCalculator/README.md) |
+| **02** | **QUANTIA ($QTA) Token** | ERC-20 token for the QUANTIA project. Fixed supply, burnable, deployed on Arbitrum One. | ➜ [View README](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_02_QTA_Token/README.md) |
+| **03** | **Sender Contract** | Secure ERC-20 token transfer contract with gas optimization and safe-transfer patterns. | ➜ [View README](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_03_Sender/README.md) |
+| **04** | **React + TypeScript Wallet Connector** | Web3 mini-project integrating React with MetaMask (Basic & PRO versions). | ➜ [View README](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_04_React_TypeScript_Wallet_Connector/pro/Challenger_04_pro/README.md) |
 
-| #      | Challenge                               | Description                                                                                      | Link                                                                        |
-| ------ | --------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| **01** | **Advanced Calculator**                 | Smart-contract calculator built in Solidity with secure arithmetic and gas-efficient operations. | ➜ [View README](./Challenge_01_Advanced_Calculator/README.md)               |
-| **02** | **QUANTIA ($QTA) Token**                | ERC-20 token for the QUANTIA project. Fixed supply, burnable, deployed on Arbitrum One.          | ➜ [View README](./Challenge_02_QUANTIA_Token/README.md)                     |
-| **03** | **Sender Contract**                     | Secure ERC-20 token transfer contract with gas optimization and safe-transfer patterns.          | ➜ [View README](./Challenge_03_Sender_Contract/README.md)                   |
-| **04** | **React + TypeScript Wallet Connector** | Web3 mini-project integrating React with MetaMask (Basic & PRO versions).                        | ➜ [View README](./Challenge_04_React_TypeScript_Wallet_Connector/README.md) |
 
 ---
 
