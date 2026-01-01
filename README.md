@@ -78,9 +78,7 @@ Stay tuned for updates as I continue expanding this **Global Blockchain SecAdv J
 
 
 
-¡Perfecto! Aquí tienes la **versión profesional en inglés**, completa, pulida y con **enlaces reales**, **badges**, **un banner elegante**, y un diseño altamente profesional como el que usan los repositorios top de GitHub.
 
----
 
 # 🌐 **Global Blockchain – Security & Advanced Development Journey**
 
@@ -153,13 +151,4 @@ To build a **professional blockchain portfolio** demonstrating:
 * Web3 integrations with real apps
 * Clean architecture & full-stack Web3 thinking
 
----
-
-Si quieres, te lo puedo:
-
-✅ traducir en paralelo (EN + ES)
-✅ hacer un **banner personalizado QUANTIA estilo branding profesional**
-✅ agregar sección de **certificaciones, LinkedIn y contacto** como portafolio
-
-¿Quieres que el banner lleve QUANTIA? 🎨🔥
 
