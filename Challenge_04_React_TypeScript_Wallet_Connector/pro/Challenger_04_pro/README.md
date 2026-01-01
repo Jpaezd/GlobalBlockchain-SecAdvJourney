@@ -17,7 +17,7 @@ This folder demonstrates the **PRO version of Web3 wallet integration** using Re
 
 - Connect and disconnect MetaMask securely
 - Detect account changes and update UI in real-time
-- **Show current balances of ETH and QTA token**
+- **Show current balances of BNB and USDT token**
 - Handle errors and missing MetaMask scenarios
 - Typed with TypeScript for safer development
 - Modular, scalable component structure
