@@ -27,7 +27,7 @@ This repository showcases my progression in blockchain and Web3 development thro
 - Web3 mini-project demonstrating **React app integration with MetaMask**.
 - Features **Basic** and **PRO** versions:
   - 🟢 **Basic:** Wallet connection, account detection, Sepolia testnet interaction.
-  - 🔵 **PRO:** Advanced wallet connection, reconnection, multi-account detection.
+  - 🔵 **PRO:** Advanced wallet connection, reconnection, Balance, multi-account detection.
 - [View README](./Challenge_04_React_TypeScript_Wallet_Connector/README.md)
 
 ---
