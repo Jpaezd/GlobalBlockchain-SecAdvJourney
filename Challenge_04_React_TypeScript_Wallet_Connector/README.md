@@ -31,6 +31,9 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 │   ├── App.tsx
 │   ├── WalletConnector.js
 │   └── components/
+│       ├── Balance.tsx
+│       ├── WalletConnector.tsx
+│       ├── WalletConnectorPro.tsx
 │       └── multichain/
 │           ├── balanceMultiChain.tsx
 │           ├── networkSwitcher.ts
