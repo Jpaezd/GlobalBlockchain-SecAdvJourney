@@ -22,9 +22,34 @@ The project is split into:
 - **MULTI CHAIN PRO Version** – using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
 ---
 ---
+# 🌐 Challenge 04 – **React + MetaMask Wallet Connector**
 
-## Folder Structure
+[![Challenge 04 — Wallet Connector](https://img.shields.io/badge/Challenge%2004-Wallet%20Connector-green)](#)
+[![MultiChain](https://img.shields.io/badge/Challenge%2004-Multi%20Chain-green)](#)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)](https://www.typescriptlang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Blockchain: Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-purple.svg)](https://ethereum.org/)
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
 
+---
+
+## 📌 Description
+
+This challenge demonstrates a **Web3 Wallet Connector** in **React + TypeScript** using MetaMask.  
+It shows the connected account, active network, and real-time balances in **ETH** and **QTA token**.  
+
+The project is split into:
+
+- **Basic Version** – simple connection and account display.  
+- **PRO Version** – advanced features, including real-time balances, network verification, and visual status indicators.
+- **MULTI CHAIN PRO Version** – using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
+
+---
+
+## 🗂 Folder Structure
+
+```text
 Challenge_04_React_TypeScript_Wallet_Connector/
 ├── src/
 │   ├── App.tsx
@@ -33,6 +58,9 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 │           ├── balanceMultiChain.tsx
 │           ├── networkSwitcher.ts
 │           └── tokenReader.ts
+├── basic/
+│   └── images/
+│       └── React--Wallet-Account1.png
 ├── pro/
 │   └── Challenger_04_pro/
 │       ├── README.md
@@ -46,7 +74,6 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 ├── package.json
 └── package-lock.json
 
----
 
 ## 🟢 Basic Version
 
