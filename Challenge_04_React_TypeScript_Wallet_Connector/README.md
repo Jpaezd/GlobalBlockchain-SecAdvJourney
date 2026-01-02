@@ -30,6 +30,9 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 ├── src/
 │   ├── App.tsx
 │   └── components/
+│       ├── Balance.tsx
+│       ├── WalletConnector.tsx
+│       ├── WalletConnectorPro.tsx
 │       └── multichain/
 │           ├── balanceMultiChain.tsx
 │           ├── networkSwitcher.ts
@@ -49,6 +52,7 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 │           └── Alert.png
 ├── package.json
 └── package-lock.json
+
 ```
 ---
 
