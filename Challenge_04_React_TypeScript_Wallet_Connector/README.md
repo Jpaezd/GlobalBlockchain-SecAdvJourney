@@ -53,6 +53,9 @@ The project is split into:
 ![Wallet Connector PRO 2](./pro/Challenger_04_pro/images/WalletConnectorPro2.png)
 
 
+
+### PRO Version – Multichain
+
 This project demonstrates the **PRO version of Web3 wallet integration** using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
 
 
@@ -74,8 +77,6 @@ This project demonstrates the **PRO version of Web3 wallet integration** using R
 > ⚠️ You must be on the correct network — Required Chain ID: 56  
 
 ---
-
-### PRO Version – Multichain
 
 **3️⃣ BNB Chain:**  
 ![BNBChain](./pro/Challenger_04_pro/images/BNBChain.png)
