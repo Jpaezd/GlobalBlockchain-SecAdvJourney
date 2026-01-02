@@ -1,7 +1,7 @@
 # 🌐 Challenge 04 – **React + MetaMask Wallet Connector**
 
 [![Challenge 04 — Wallet Connector](https://img.shields.io/badge/Challenge%2004-Wallet%20Connector-green)](#)
-[![Challenge 04 — Wallet Connector](https://img.shields.io/badge/Challenge%2004-Multi%20Chain-green)](#)
+[![MultiChain](https://img.shields.io/badge/Challenge%2004-Multi%20Chain-green)](#)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
