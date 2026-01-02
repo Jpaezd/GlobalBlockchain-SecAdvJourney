@@ -29,10 +29,8 @@ The project is split into:
 Challenge_04_React_TypeScript_Wallet_Connector/
 ├── src/
 │   ├── App.tsx
+│   ├── WalletConnector.js
 │   └── components/
-│       ├── Balance.tsx
-│       ├── WalletConnector.tsx
-│       ├── WalletConnectorPro.tsx
 │       └── multichain/
 │           ├── balanceMultiChain.tsx
 │           ├── networkSwitcher.ts
