@@ -77,16 +77,6 @@ This project demonstrates the **PRO version of Web3 wallet integration** using R
 
 ---
 
-## Screenshots
-
-### BASIC Version
-
-**1️⃣ Wallet connecting:**  
-![Wallet Connector PRO 1](./pro/Challenger_04_pro/images/WalletConnectorPro1.png)
-
-**2️⃣ Wallet connected and balances loaded:**  
-![Wallet Connector PRO 2](./pro/Challenger_04_pro/images/WalletConnectorPro2.png)
-
 ### PRO Version – Multichain
 
 **3️⃣ BNB Chain:**  
