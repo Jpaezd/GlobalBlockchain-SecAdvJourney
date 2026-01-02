@@ -55,7 +55,6 @@ The project is split into:
 
 This project demonstrates the **PRO version of Web3 wallet integration** using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
 
----
 
 ## Features
 
