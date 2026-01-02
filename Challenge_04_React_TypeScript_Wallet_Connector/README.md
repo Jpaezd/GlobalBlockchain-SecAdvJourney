@@ -19,7 +19,7 @@ The project is split into:
 
 - **Basic Version** – simple connection and account display.  
 - **PRO Version** – advanced features, including real-time balances, network verification, and visual status indicators.
-
+- **MULTI CHAIN PRO Version** – using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
 ---
 
 ## 🟢 Basic Version
