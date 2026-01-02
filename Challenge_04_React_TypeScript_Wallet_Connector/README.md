@@ -21,6 +21,32 @@ The project is split into:
 - **PRO Version** – advanced features, including real-time balances, network verification, and visual status indicators.
 - **MULTI CHAIN PRO Version** – using React and TypeScript. It goes beyond the basics to provide a production-ready implementation with lifecycle handling, account change detection, real-time balance display, and safety checks.
 ---
+---
+
+## Folder Structure
+
+Challenge_04_React_TypeScript_Wallet_Connector/
+├── src/
+│   ├── App.tsx
+│   └── components/
+│       └── multichain/
+│           ├── balanceMultiChain.tsx
+│           ├── networkSwitcher.ts
+│           └── tokenReader.ts
+├── pro/
+│   └── Challenger_04_pro/
+│       ├── README.md
+│       └── images/
+│           ├── WalletConnectorPro1.png
+│           ├── WalletConnectorPro2.png
+│           ├── BNBChain.png
+│           ├── Arbitrum.png
+│           ├── Linea.png
+│           └── Alert.png
+├── package.json
+└── package-lock.json
+
+---
 
 ## 🟢 Basic Version
 
