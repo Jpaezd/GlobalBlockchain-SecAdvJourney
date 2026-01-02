@@ -1,3 +1,10 @@
+
+```
+Challenge_04_React_TypeScript_Wallet_Connector/pro/Challenger_04_pro/README.md
+```
+
+---
+
 ````markdown
 # Challenge 04 – PRO Version
 
@@ -46,22 +53,22 @@ npm start
 ## Screenshots
 
 **1️⃣ Wallet Connector PRO 1**
-![Wallet Connector PRO 1](./Challenger_04_pro/images/WalletConnectorPro1.png)
+![Wallet Connector PRO 1](./images/WalletConnectorPro1.png)
 
 **2️⃣ Wallet Connector PRO 2**
-![Wallet Connector PRO 2](./Challenger_04_pro/images/WalletConnectorPro2.png)
+![Wallet Connector PRO 2](./images/WalletConnectorPro2.png)
 
 **3️⃣ BNB Chain**
-![BNBChain](./Challenger_04_pro/images/BNBChain.png)
+![BNBChain](./images/BNBChain.png)
 
 **4️⃣ Arbitrum**
-![Arbitrum](./Challenger_04_pro/images/Arbitrum.png)
+![Arbitrum](./images/Arbitrum.png)
 
 **5️⃣ Linea**
-![Linea](./Challenger_04_pro/images/Linea.png)
+![Linea](./images/Linea.png)
 
 **6️⃣ Alert when querying a token on the wrong network**
-![Alert](./Challenger_04_pro/images/Alert.png)
+![Alert](./images/Alert.png)
 
 > Note: To see correct token balances, make sure you are on the corresponding network in MetaMask.
 
