@@ -53,7 +53,7 @@ The project is split into:
 **2️⃣ Wallet connected and balances loaded:**  
 ![Wallet Connector PRO 2](./pro/Challenger_04_pro/images/WalletConnectorPro2.png)
 
-
+---
 
 # 💎 PRO Version – Multichain
 
