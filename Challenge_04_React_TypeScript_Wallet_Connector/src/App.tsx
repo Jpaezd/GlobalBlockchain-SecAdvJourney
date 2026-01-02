@@ -1,6 +1,7 @@
 // App.tsx
 import React from "react";
 import WalletConnectorPro from "./components/WalletConnectorPro";
+import BalanceMultiChain from "./components/multichain/balanceMultiChain";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       
       <h3>Versión PRO</h3>
       <WalletConnectorPro />
+      <BalanceMultiChain />
     </div>
   );
 }
