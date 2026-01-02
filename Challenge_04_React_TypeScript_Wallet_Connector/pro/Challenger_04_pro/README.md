@@ -1,11 +1,3 @@
-
-```
-Challenge_04_React_TypeScript_Wallet_Connector/pro/Challenger_04_pro/README.md
-```
-
----
-
-````markdown
 # Challenge 04 – PRO Version
 
 ![Challenge 04](https://img.shields.io/badge/Challenge-04-blue)
@@ -36,6 +28,7 @@ This folder contains the **PRO implementation of the Web3 wallet integration** u
 
 ```bash
 npm install
+
 ````
 
 3. Start the project:
