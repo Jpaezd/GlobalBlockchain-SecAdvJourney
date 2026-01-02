@@ -60,7 +60,7 @@ npm start
 **5️⃣ Linea**
 ![Linea](./images/Linea.png)
 
-**6️⃣ Alert**
+**6️⃣ Alert when querying a token on the wrong network:**
 ![Alert](./images/Alert.png)
 
 
