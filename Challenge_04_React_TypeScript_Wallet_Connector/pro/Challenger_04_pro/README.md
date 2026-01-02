@@ -62,6 +62,8 @@ npm start
 
 **6️⃣ Alert**
 ![Alert](./images/Alert.png)
+
+
 Alert when querying a token on the wrong network
 
 > Note: To see correct token balances, make sure you are on the corresponding network in MetaMask.
