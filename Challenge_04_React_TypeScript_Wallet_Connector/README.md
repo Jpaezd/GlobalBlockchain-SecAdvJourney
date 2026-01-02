@@ -50,6 +50,7 @@ Challenge_04_React_TypeScript_Wallet_Connector/
 ├── package.json
 └── package-lock.json
 
+---
 
 ## 🟢 Basic Version
 
