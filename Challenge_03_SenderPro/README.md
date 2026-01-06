@@ -30,10 +30,10 @@ Includes:
 ![Revert](./images/Revert.png)
 
 ### 5️⃣ SendETH
-![SendETH](./images/SendETH.png)
+![SendETH](./images/SendEth.png)
 
 ### 6️⃣ Withdraw
-![Withdraw](./images/Withdraw.png)
+![Withdraw](./images/WithDraw.png)
 
 ## 🔹 Notes
 
