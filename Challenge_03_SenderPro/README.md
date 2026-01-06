@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Challenge 03 — Sender PRO](https://img.shields.io/badge/Challenge-03-Sender%20PRO-blue)](#)
 [![Ethereum](https://img.shields.io/badge/Ethereum-0.8.24-purple)](#)
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-orange)](#)
+
 
 Advanced **Ethereum smart contract** to send **ETH** and **ERC20 tokens** with batch support, owner control, events, and security.
 
