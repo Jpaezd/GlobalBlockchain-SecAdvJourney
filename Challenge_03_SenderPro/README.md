@@ -1,5 +1,8 @@
 # 🌐 Challenge 03 — **Sender PRO**
 
+[![Challenge 03 — Sender Pro](https://img.shields.io/badge/Challenge%2002-QTA-green)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
+[![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
 [![Challenge 03 — Sender PRO](https://img.shields.io/badge/Challenge-03-Sender%20PRO-blue)](#)
 [![Ethereum](https://img.shields.io/badge/Ethereum-0.8.24-purple)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-orange)](#)
