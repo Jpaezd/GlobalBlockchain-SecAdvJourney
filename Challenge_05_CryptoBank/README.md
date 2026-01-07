@@ -11,6 +11,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Blockchain: Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-purple.svg)](https://ethereum.org/)
 ![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
+
+---
 **Description:**
 CryptoBank PRO is an **advanced smart contract** that allows depositing and withdrawing ETH, interacting with ERC20 tokens, and managing the contract with **owner control** and **pause functionality** (`paused`). Every action triggers **events** to audit activity.
 
