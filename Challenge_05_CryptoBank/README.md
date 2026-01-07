@@ -1,4 +1,4 @@
-# 🌐 Challenge 05 – **CryptoBank PRO 2026**
+# 🌐 Challenge 05 – **CryptoBank PRO **
 
 [![Challenge 05 — CriptoBank](https://img.shields.io/badge/Challenge%2005-Crypto%20Bank-green)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
