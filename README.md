@@ -1,30 +1,72 @@
-# Global Blockchain Security & Advanced Journey
+# 🌐 Global Blockchain Security & Advanced Journey
 
-Welcome to my blockchain journey repository. Here you will find all my challenges, smart contracts, and projects developed to improve my skills in Solidity, React, TypeScript, and advanced blockchain security concepts.
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
+[![Languages](https://img.shields.io/github/languages/top/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
 
-## Repository Structure
+---
 
-Each folder represents a challenge or project:
+Welcome to my **Blockchain Security & Advanced Projects Repository**, a collection of challenges, smart contracts, and projects showcasing my journey in Solidity, React, TypeScript, and multi-chain blockchain development.
 
-- **Challenge_01_AdvancedCalculator**: Advanced calculator smart contract with testing.
-- **Challenge_02_QTA_Token**: Custom ERC20 token implementation with deployment scripts.
-- **Challenge_03_SenderPro**: Smart contract to send tokens and ETH securely.
-- **Challenge_04_React_TypeScript_Wallet_Connector**: React + TypeScript project connecting to MetaMask wallets.
-- **Challenge_05_CryptoBank**: Advanced smart contract to deposit and withdraw ETH and ERC20 tokens, includes screenshots and README.
+---
 
-## How to Explore
+## 🚀 Repository Structure
 
-- Each challenge folder contains:
-  - The smart contract code (`.sol`) or project source.
-  - README explaining the challenge, steps, and outputs.
-  - Screenshots to illustrate functionality (if any).
+Each folder is a standalone project or challenge, with **code, screenshots, and detailed README**:
 
-## Purpose
+| Challenge | Description | Screenshot |
+|-----------|-------------|------------|
+| **Challenge 01** | Advanced Calculator Smart Contract | ![Calculator](images/Calculator.png) |
+| **Challenge 02** | Custom ERC20 QTA Token | ![QTA Token](images/QTA_Token.png) |
+| **Challenge 03** | SenderPro: Send Tokens & ETH | ![SenderPro](images/SenderPro.png) |
+| **Challenge 04** | React + TypeScript Wallet Connector | ![Wallet Connector](images/WalletConnector.png) |
+| **Challenge 05** | CryptoBank: ETH & ERC20 Bank Smart Contract | ![CryptoBank](images/Deploy.png) |
 
-This repository is a personal learning journey focused on:
+> 📸 The screenshots are stored inside each challenge's `images/` folder.
 
-- Solidity and smart contract development
-- Multi-chain wallet interactions
-- React + TypeScript front-end integration
-- Security best practices in blockchain
+---
+
+## 🔧 Technologies & Tools
+
+- **Solidity 0.8.x** – Smart Contract Development
+- **OpenZeppelin** – Secure ERC20 and ERC721 token standards
+- **React + TypeScript** – Front-end wallet integration
+- **MetaMask** – Ethereum wallet connection
+- **Remix IDE** – Solidity compilation & deployment
+- **Hardhat / Ganache (optional)** – Local blockchain testing
+- **Git & GitHub** – Version control and project hosting
+
+---
+
+## 📝 How to Explore
+
+1. Open any challenge folder, e.g., `Challenge_05_CryptoBank`.
+2. Check the **README** inside for detailed explanation and step-by-step screenshots.
+3. Compile and deploy the smart contracts in Remix or connect front-end projects locally.
+4. Check the `images/` folder for visual outputs of transactions, balances, and events.
+
+---
+
+## 🎯 Purpose
+
+- Build **practical blockchain projects** from scratch.
+- Learn **multi-chain wallet interactions** and ERC20 management.
+- Explore **React front-end integration** with smart contracts.
+- Apply **security best practices** in Solidity and blockchain design.
+
+---
+
+## 📂 Folder Structure Overview
+
+```text
+GlobalBlockchain-SecAdvJourney/
+├─ Challenge_01_AdvancedCalculator/
+├─ Challenge_02_QTA_Token/
+├─ Challenge_03_SenderPro/
+├─ Challenge_04_React_TypeScript_Wallet_Connector/
+├─ Challenge_05_CryptoBank/
+│  ├─ CryptoBankFinal.sol
+│  ├─ README.md
+│  └─ images/
+└─ README.md (this file)
 
