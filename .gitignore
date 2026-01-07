@@ -1,0 +1,5 @@
+node_modules/
+artifacts/
+*.log
+package.json
+package-lock.json
