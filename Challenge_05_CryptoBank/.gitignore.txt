@@ -1,6 +1,0 @@
-node_modules/
-artifacts/
-cache/
-*.log
-package.json
-package-lock.json
