@@ -3,12 +3,12 @@
 
 ![Challenge 05](https://img.shields.io/badge/Challenge-05-CryptoBank-blue)
 
-**Descripción:**
-CryptoBank PRO es un **smart contract avanzado** que permite depositar y retirar ETH, interactuar con tokens ERC20, y manejar el contrato con control de propietario (`owner`) y pausa (`paused`). Cada acción genera **eventos** para auditar la actividad.
+**Description:**
+CryptoBank PRO is an **advanced smart contract** that allows depositing and withdrawing ETH, interacting with ERC20 tokens, and managing the contract with **owner control** and **pause functionality** (`paused`). Every action triggers **events** to audit activity.
 
 ---
 
-## 🖼 Capturas paso a paso
+## 🖼 Step-by-Step Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
@@ -17,15 +17,15 @@ CryptoBank PRO es un **smart contract avanzado** que permite depositar y retirar
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/Deploy.png" width="100%"/>
 <h3>Deploy</h3>
-<p>Contrato desplegado y asignación de owner.</p>
+<p>Contract deployed and owner assigned.</p>
 </div>
 
 <!-- Deposit -->
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/DepositETH.png" width="100%"/>
-<h3>Depósito ETH</h3>
-<p>Se ejecuta <code>depositETHWrapperTEST()</code>. Evento <code>Deposit</code> confirmado.</p>
+<h3>Deposit ETH</h3>
+<p>Executed <code>depositETHWrapperTEST()</code>. <code>Deposit</code> event confirmed.</p>
 </div>
 
 <!-- Balance -->
@@ -33,66 +33,66 @@ CryptoBank PRO es un **smart contract avanzado** que permite depositar y retirar
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/Balance.png" width="100%"/>
 <h3>Balance</h3>
-<p>Consulta del balance del usuario después del depósito.</p>
+<p>Check user balance after deposit.</p>
 </div>
 
 <!-- Withdraw -->
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/Withdraw.png" width="100%"/>
-<h3>Retiro parcial</h3>
-<p>Se retira el 60% del balance del usuario. Evento <code>Withdraw</code> confirmado.</p>
+<h3>Partial Withdrawal</h3>
+<p>Withdraws 60% of the user’s balance. <code>Withdraw</code> event confirmed.</p>
 </div>
 
 <!-- New Balance -->
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/NewBalance.png" width="100%"/>
-<h3>Nuevo balance</h3>
-<p>Se verifica el balance restante después del retiro parcial.</p>
+<h3>New Balance</h3>
+<p>Remaining balance verified after partial withdrawal.</p>
 </div>
 
 <!-- Paused -->
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:10px; width:250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;">
 <img src="images/Paused.png" width="100%"/>
-<h3>Pausar contrato</h3>
-<p>El propietario pausa el contrato. Depósitos y retiros bloqueados.</p>
+<h3>Pause Contract</h3>
+<p>Owner pauses the contract. Deposits and withdrawals are blocked.</p>
 </div>
 
 </div>
 
 ---
 
-## 💻 Funcionalidades del contrato
+## 💻 Contract Features
 
-* **Owner control:** solo el propietario puede pausar o reanudar el contrato.
-* **Paused:** pausa el contrato en caso de emergencia.
-* **Deposit / Withdraw ETH:** depositar y retirar ETH parcial o totalmente.
-* **Deposit / Withdraw ERC20:** enviar y recibir tokens ERC20.
-* **Wrappers externos:** <code>depositETHWrapperTEST()</code> y <code>withdrawETHWrapper()</code> permiten probar en Remix sin tocar la lógica interna.
-* **Eventos:** <code>Deposit</code>, <code>Withdraw</code>, <code>TokenDeposit</code>, <code>TokenWithdraw</code>, <code>Paused</code> para auditar la actividad.
-
----
-
-## ⚡ Uso en Remix
-
-1. Abrir `CryptoBankFinal.sol` en Remix.
-2. Compilar con **Solidity 0.8.24+** y EVM `Cancun` o `London`.
-3. Desplegar el contrato desde la cuenta que será `owner`.
-4. Usar los wrappers externos para probar depósitos y retiros.
-5. Revisar los eventos en la pestaña **Logs/Events** para auditar cada acción.
+* **Owner Control:** Only the owner can pause or resume the contract.
+* **Pause Functionality:** Stop the contract in case of emergency.
+* **Deposit / Withdraw ETH:** Deposit and withdraw ETH, fully or partially.
+* **Deposit / Withdraw ERC20 Tokens:** Send and receive ERC20 tokens.
+* **External Wrappers:** <code>depositETHWrapperTEST()</code> and <code>withdrawETHWrapper()</code> allow testing in Remix without touching internal logic.
+* **Events:** <code>Deposit</code>, <code>Withdraw</code>, <code>TokenDeposit</code>, <code>TokenWithdraw</code>, <code>Paused</code> for auditing all activities.
 
 ---
 
-## ✅ Conclusión
+## ⚡ How to Use in Remix
 
-CryptoBank PRO 2026 es un contrato **seguro, profesional y listo para pruebas**, ideal para:
+1. Open `CryptoBankFinal.sol` in Remix.
+2. Compile with **Solidity 0.8.24+** and EVM version `Cancun` or `London`.
+3. Deploy the contract from the account that will become the `owner`.
+4. Use external wrappers to test deposits and withdrawals.
+5. Check **Logs/Events** to audit each action.
 
-* Aprender a manejar depósitos y retiros de ETH y ERC20.
-* Practicar control de acceso (`owner`) y pausa de contrato.
-* Generar eventos para auditar transacciones.
-* Integrar con futuras DApps o interfaces externas.
+---
+
+## ✅ Conclusion
+
+CryptoBank PRO 2026 is a **secure, professional, and test-ready contract**, ideal for:
+
+* Learning to handle deposits and withdrawals of ETH and ERC20 tokens.
+* Practicing access control (`owner`) and contract pausing.
+* Generating events to audit transactions.
+* Integrating with future DApps or external interfaces.
 
 ---
 
