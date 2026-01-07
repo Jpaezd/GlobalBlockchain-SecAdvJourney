@@ -16,13 +16,13 @@ Each folder is a standalone project or challenge, with **code, screenshots, and 
 
 | Challenge | Description | Screenshot |
 |-----------|-------------|------------|
-| **Challenge 01** | Advanced Calculator Smart Contract | ![Calculator](images/Calculator.png) |
-| **Challenge 02** | Custom ERC20 QTA Token | ![QTA Token](images/QTA_Token.png) |
-| **Challenge 03** | SenderPro: Send Tokens & ETH | ![SenderPro](images/SenderPro.png) |
-| **Challenge 04** | React + TypeScript Wallet Connector | ![Wallet Connector](images/WalletConnector.png) |
-| **Challenge 05** | CryptoBank: ETH & ERC20 Bank Smart Contract | ![CryptoBank](images/Deploy.png) |
+| **Challenge 01** | Advanced Calculator Smart Contract | [![Calculator](images/Calculator.png)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_01_AdvancedCalculator/README.md) |
+| **Challenge 02** | Custom ERC20 QTA Token | [![QTA Token](images/QTA_Token.png)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_02_QTA_Token/README.md) |
+| **Challenge 03** | SenderPro: Send Tokens & ETH | [![SenderPro](images/SenderPro.png)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_03_SenderPro/README.md) |
+| **Challenge 04** | React + TypeScript Wallet Connector | [![Wallet Connector](images/WalletConnector.png)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_04_React_TypeScript_Wallet_Connector/README.md) |
+| **Challenge 05** | CryptoBank: ETH & ERC20 Bank Smart Contract | [![CryptoBank](images/Deploy.png)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney/blob/main/Challenge_05_CryptoBank/README.md) |
 
-> 📸 The screenshots are stored inside each challenge's `images/` folder.
+> 📸 The screenshots are stored inside each challenge's `images/` folder, and clicking them takes you directly to the corresponding README.
 
 ---
 
@@ -69,4 +69,18 @@ GlobalBlockchain-SecAdvJourney/
 │  ├─ README.md
 │  └─ images/
 └─ README.md (this file)
+````
+
+---
+
+## 🌟 Future Challenges
+
+More projects coming soon:
+
+* Multi-chain DeFi protocols
+* ERC721 / NFT marketplaces
+* Advanced tokenomics simulations
+* Layer-2 scaling solutions
+
+```
 
