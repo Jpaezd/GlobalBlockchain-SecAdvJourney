@@ -1,4 +1,3 @@
-
 # 🌐 Challenge 05 – **CryptoBank PRO 2026**
 
 ![Challenge 05](https://img.shields.io/badge/Challenge-05-CryptoBank-blue)
