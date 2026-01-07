@@ -3,7 +3,16 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
 [![Languages](https://img.shields.io/github/languages/top/Jpaezd/GlobalBlockchain-SecAdvJourney)](https://github.com/Jpaezd/GlobalBlockchain-SecAdvJourney)
-
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://docs.soliditylang.org/)
+[![License](https://img.shields.io/badge/License-LGPL--3.0--only-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
+[![Verified on Arbiscan](https://img.shields.io/badge/Verified-Arbiscan-blue.svg)](https://arbiscan.io/address/0xEF14b60F45fB9118a63e3DC2AaD21B1B142554d2)
+[![Blockchain: Arbitrum One](https://img.shields.io/badge/Blockchain-Arbitrum%20One-purple.svg)](https://arbitrum.io/)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=MetaMask&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)](https://www.typescriptlang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Blockchain: Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-purple.svg)](https://ethereum.org/)
+![Web3](https://img.shields.io/badge/Web3-F8F8F8?style=flat&logo=ethereum&logoColor=blue)
 ---
 
 Welcome to my **Blockchain Security & Advanced Projects Repository**, a collection of challenges, smart contracts, and projects showcasing my journey in Solidity, React, TypeScript, and multi-chain blockchain development.
