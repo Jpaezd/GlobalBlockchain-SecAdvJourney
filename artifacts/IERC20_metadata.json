@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "transfer",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Includes batch sending, security features, events, pausing, withdraw, and owner control.",
+			"kind": "dev",
+			"methods": {},
+			"title": "Sender PRO 2026",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Advanced smart contract to send ETH and ERC20 tokens.",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Challenge_03_Sender/Sender.sol": "IERC20"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Challenge_03_Sender/Sender.sol": {
+			"keccak256": "0xdb4b5f69d0e307c6eaf4ca723be4f56fe37176ed335579ebd64d59a6035206b1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://df53e9d2da25b70a6993e1bfa020070254cfbb911dad8f425413bdbd5b2f11ff",
+				"dweb:/ipfs/QmWLtupSiuyPotuFAa4wEeDiPVq3afSyJnt3uGduuNBnE5"
+			]
+		}
+	},
+	"version": 1
+}
